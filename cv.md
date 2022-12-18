@@ -1,17 +1,17 @@
 # Andrey Baranov #  
   
 
-## Multidisciplinary Designer ##  
+### Multidisciplinary Designer ###  
   
 
-## Contact Information: ##
+### Contact Information: ###
   **Phone:** +7 9819714066  
   **E-mail:** andrey.n.baranov@gmail.com  
   **Telegram:** @andbaranov  
-  **GitHub:** [andrey-baranov](адрес "https://github.com/andrey-baranov")
+  **GitHub:** [andrey-baranov]("https://github.com/andrey-baranov")
   
   
-# Experience ##
+## Experience ##
 ### UI and visual communications Designer ###  
   **2018 - Present**  
   *Freelancer (Moscow, Saint-Petersburg)*    
@@ -23,23 +23,23 @@
   *Newman (Saint-Petersburg)*  
   Created print publications and digital projects for corporate clients. 
 
-  **UX/UI Designer**  
+### UX/UI Designer ###  
   **2015 - 2017**  
   *Media Markt (Moscow)*  
   Developing the interactive Media Guide application for MediaMarkt supermarket buyers.
 
-  **Graphic Designer, Art-Director**  
+ ### Graphic Designer, Art-Director ###  
   **2001 - 2015**  
   *Burda Media Company (Moscow)*    
   Computer magazine "CHIP" and the magazine for photographers "FOTO-VIDEO DIGITAL"   
 
-  **Graphic Designer**  
+### Graphic Designer ###  
   **2000 - 2001** 
   *VDNH (The Exhibition of Achievements of National Economy) - Moscow*   
   Designed exhibitions and events for the exhibition complex, Created printing and advertising products  
   
   
-# Code example: #
+## Code example: ##
   **Codewars** *Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).*  
   ```
   function countSheeps(arrayOfSheep) {
@@ -55,7 +55,7 @@
  ```
       
   
-# Education #
+## Education ##
   **Bachelor of Art History**  
   Russian State University for the Humanities 
 
@@ -66,7 +66,7 @@
   Uprock School  
   
   
-# Skills #
+## Skills ##
   **Languages**  
   * Russian (Mother tongue)) 
   * English (Intermediate)   
