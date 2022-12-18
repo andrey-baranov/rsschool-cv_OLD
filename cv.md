@@ -28,7 +28,7 @@
   *Media Markt (Moscow)*  
   Developing the interactive Media Guide application for MediaMarkt supermarket buyers.
 
- ### Graphic Designer, Art-Director ###  
+### Graphic Designer, Art-Director ###  
   **2001 - 2015**  
   *Burda Media Company (Moscow)*    
   Computer magazine "CHIP" and the magazine for photographers "FOTO-VIDEO DIGITAL"   
@@ -40,7 +40,7 @@
   
   
 ## Code example: ##
-  **Codewars** *Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).*  
+  **Codewars:** *Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).*  
   ```
   function countSheeps(arrayOfSheep) {
   // TODO May the force be with you
