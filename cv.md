@@ -1,18 +1,16 @@
 # Andrey Baranov #
 
----
-## Multidisciplinary Designer##
 
----
----
+##Multidisciplinary Designer##
+
+
 ## Contact Information: ##
   **Phone:** +7 9819714066  
   **E-mail:** andrey.n.baranov@gmail.com  
   **Telegram:** @andbaranov
-  
----
----
-## Experience ##
+
+
+# Experience ##
   **UI and visual communications Designer**  
   **2018 - Present**  
   *Freelancer (Moscow, Saint-Petersburg)*    
@@ -38,10 +36,9 @@
   **2000 - 2001** 
   *VDNH (The Exhibition of Achievements of National Economy) - Moscow*   
   Designed exhibitions and events for the exhibition complex, Created printing and advertising products
-
----
----
-  ## Code example: ##
+  
+  
+## Code example: ##
   **Codewars** *Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).*  
   ```
   function countSheeps(arrayOfSheep) {
@@ -55,8 +52,8 @@
   return num;
 }
  ```
----
----
+
+
 ## Education ##
   **Bachelor of Art History**  
   Moscow State University of Printing 
@@ -66,8 +63,8 @@
 
   **UX/UI Design**  
   Uprock School
----
----
+
+
 ## Skills ##
   **Languages**  
   * Russian (Mother tongue)) 
