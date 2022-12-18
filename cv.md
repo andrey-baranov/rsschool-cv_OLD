@@ -8,8 +8,8 @@
 ## Contact Information: ##
   **Phone:** +7 9819714066  
   **E-mail:** andrey.n.baranov@gmail.com  
-  **Telegram:** @andbaranov  
-
+  **Telegram:** @andbaranov
+  
 ---
 ---
 ## Experience ##
