@@ -23,7 +23,7 @@
   Created print publications and digital projects for corporate clients. 
 
   **UX/UI Designer**  
-  **2015 - 2017**
+  **2015 - 2017**  
   *Media Markt (Moscow)*  
   Developing the interactive Media Guide application for MediaMarkt supermarket buyers.
 
