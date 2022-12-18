@@ -1,14 +1,17 @@
 # Andrey Baranov #
 
+---
 
-##Multidisciplinary Designer##
+## Multidisciplinary Designer ##
 
+---
 
 ## Contact Information: ##
   **Phone:** +7 9819714066  
   **E-mail:** andrey.n.baranov@gmail.com  
   **Telegram:** @andbaranov
 
+---
 
 # Experience ##
 ### UI and visual communications Designer ###  
@@ -16,7 +19,6 @@
   *Freelancer (Moscow, Saint-Petersburg)*    
   Currently, I participate in projects on a contract basis, as a designer in a team or art director. I work closely with product managers, developers, researchers and the marketing department.  
   I create websites, applications, graphics for visual communications and video graphics.  
-
 
 ### Art Director ###  
   **2017-2018**  
@@ -37,7 +39,8 @@
   **2000 - 2001** 
   *VDNH (The Exhibition of Achievements of National Economy) - Moscow*   
   Designed exhibitions and events for the exhibition complex, Created printing and advertising products
-    
+
+---
 
 # Code example: #
   **Codewars** *Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).*  
@@ -54,6 +57,8 @@
 }
  ```
 
+---
+
 # Education #
   **Bachelor of Art History**  
   Russian State University for the Humanities 
@@ -64,6 +69,7 @@
   **UX/UI Design**  
   Uprock School
 
+---
 
 # Skills #
   **Languages**  
@@ -81,4 +87,4 @@
   * Indesign   
   * After Effects  
   * Premiere  
-  * Cinema 4D 
+  * Cinema 4D
