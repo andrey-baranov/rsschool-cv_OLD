@@ -9,6 +9,32 @@
 	font-weight: 400;
  }
 
- font-family: 'Unbounded', 'Inter';
-
-
+ body {
+	font-family: 'Inter';
+	background-color: #e2e2e2;
+}
+.box {
+	width: 960px;
+	align="center";
+ }
+.round {
+	border-radius: 300px;
+}
+ .bold {
+	font-weight: bold;
+ }
+ h2 {
+	padding-top: 50px;
+}
+ h3 {
+	padding-top: 20px;
+	}
+p {
+	font-size:16px; line: height 25px;
+}
+a {
+	text-decoration: none;
+  }
+  a:hover {
+	text-decoration: underline;
+  }
