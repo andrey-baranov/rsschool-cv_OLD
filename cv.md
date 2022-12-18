@@ -11,13 +11,13 @@
 
 
 # Experience ##
-  **UI and visual communications Designer**  
+### UI and visual communications Designer ###  
   **2018 - Present**  
   *Freelancer (Moscow, Saint-Petersburg)*    
   Currently, I participate in projects on a contract basis, as a designer in a team or art director. I work closely with product managers, developers, researchers and the marketing department.  
   I create websites, applications, graphics for visual communications and video graphics.
 
-  **Art Director**  
+### Art Director ###  
   **2017-2018**  
   *Newman (Saint-Petersburg)*  
   Created print publications and digital projects for corporate clients. 
@@ -37,7 +37,6 @@
   *VDNH (The Exhibition of Achievements of National Economy) - Moscow*   
   Designed exhibitions and events for the exhibition complex, Created printing and advertising products
   
-  
 ## Code example: ##
   **Codewars** *Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).*  
   ```
@@ -52,7 +51,6 @@
   return num;
 }
  ```
-
 
 ## Education ##
   **Bachelor of Art History**  
