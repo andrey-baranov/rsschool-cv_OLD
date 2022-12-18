@@ -67,7 +67,7 @@
   **UX/UI Design**  
   Uprock School    
   
-___
+---
 
 ## Skills ##
   **Languages**  
