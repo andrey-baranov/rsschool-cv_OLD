@@ -65,9 +65,9 @@
    Moscow State University of Printing
 
   **UX/UI Design**  
-  Uprock School  
+  Uprock School    
   
----
+___
 
 ## Skills ##
   **Languages**  
