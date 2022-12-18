@@ -1,1 +1,52 @@
+@font-face {
+	font-family: 'Unbounded';
+	src: url("assets/fonts/Unbounded-Regular.ttf");
+	font-weight: 400;
+ }
+ @font-face {
+	font-family: 'Inter';
+	src: url("assets/fonts/Inter-Regular.ttf");
+	font-weight: 400;
+ }
 
+ body {
+	font-family: 'Inter';
+	background-color: #e2e2e2;
+}
+.box {
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+ }
+.round {
+	border-radius: 300px;
+}
+ .bold {
+	font-weight: bold;
+ }
+ h1{
+   margin-bottom: -15px;
+ }
+ h2 {
+	padding-top: 50px;
+}
+ h3 {
+	padding-top: 20px;
+	}
+p {
+	font-size:16px; line: height 25px;
+	margin-top: -12px;
+}
+a {
+	text-decoration: none;
+  }
+  a:hover {
+	text-decoration: underline;
+  }
+  footer {
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	margin-top: 50px;
+	border-top: 2px solid rgb(0, 0, 0);
+  }
