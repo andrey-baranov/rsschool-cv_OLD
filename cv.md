@@ -16,8 +16,9 @@
   Currently, I participate in projects on a contract basis, as a designer in a team or art director. I work closely with product managers, developers, researchers and the marketing department.
 I create websites, applications, graphics for visual communications and video graphics.
 
-### 2017-2018 ###
+###2017-2018###
   **Art Director**
+  
   Newman (Saint-Petersburg)
   Created print publications and digital projects for corporate clients. 
 
