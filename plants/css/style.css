@@ -1,0 +1,405 @@
+
+/*Обнуление*/
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+}
+ul,
+ol,
+li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+h1 {
+	font-size: 45px;
+	color: #717171;
+	line-height: 50px;
+	padding-bottom: 42px;
+}
+h2 {
+	font-family: Inika;
+	font-weight: 400;
+	color: #499A18;
+	font-size: 40px;
+	line-height: 52px;
+}
+h3 {
+	font-weight: 700;
+	color: #E06733;
+	font-size: 20px;
+}
+h4 {
+	font-weight: 400;
+	color: #717171;
+	font-size: 16px;
+}
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+.colortext {
+	color: #499A18;
+}
+.colortext2 {
+	color: #E06733;
+}
+
+
+
+.button {
+	display: inline-block;
+	vertical-align: top;
+	font-family: Inika;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+	margin: auto;
+	color: #E06733;
+	border: 2px solid #E06733;
+	border-radius: 5px;
+	height: 50px;
+	width: 161px;
+	padding: 6px;
+}
+
+.button:hover {
+	background:#E06733;
+	color:#FFFFFF;
+	
+}
+.button--welcome {
+	font-family: Inter;
+	font-weight: regular;
+	font-size: 16px;
+	color: #000000;
+	margin-top: 48px;
+	height: 44px;
+	width: 158px;
+	padding: 3px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	height: 100%;
+	font-size: 20px;
+	line-height: 35px;
+	color: #636060;
+	font-family: Inter;
+}
+
+/* CONTAINER----------------------------------------------------------------------------------*/
+.container {
+	width: 100%;
+	max-width: 1222px;
+	margin: 0px auto;
+}
+
+
+
+/* HEADER-----------------------------------------------------------------------------------*/
+.header {
+	background-color: #EDF2EC;
+}
+.header__container {
+	display: flex;
+	min-height: 134px;
+	justify-content: space-between;
+	align-items:center;
+}
+
+
+/* NAV-----------------------------------------------------------------------------------*/
+.nav ul {
+	display: flex;
+
+}
+.nav__link {
+	display: flex;
+	padding-left: 46px;
+	font-family: Inika;
+	font-weight: 700;
+	font-size: 16px;
+	color: #010201;
+}
+.nav__link:first-child {
+	margin-left: 0;
+}
+.nav__link:hover {
+	color: #E06733;
+}
+
+/* MAIN----------------------------------------------------------------------------------*/
+.main {
+	background-color: #EDF2EC;
+}
+
+
+/* WELCOME-----------------------------------------------------------------------------------*/
+.welcome {
+	display: flex;
+	align-items: center;
+	justify-align: center;
+	column-gap: 220px;
+	height: 532px;
+}
+
+.welcome__img {
+	width: 453px;
+	height: 407px;
+}
+
+/* ABOUT-----------------------------------------------------------------------------------*/
+.about {
+	display: flex;
+	align-items: center;
+	justify-align: center;
+	column-gap: 153px;
+	height: 666px;
+}
+
+.about__img {
+	width: 464px;
+	height: 479px;
+}
+
+.text_about {
+	line-height: 30px;
+	margin-top: 40px;
+}
+
+/* SERVICE-----------------------------------------------------------------------------------*/
+
+
+.service {
+}
+.service__header {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 40px;
+	width: 1018px;
+}
+.service__buttons {
+}
+.button--service {
+	margin-top: 29px;
+	margin-left: 38px;	
+}
+.service__cards {
+	display: flex;
+	margin-top: 90px;
+	padding-bottom: 121px;
+	flex-wrap: wrap;
+	column-gap: 116px;
+	row-gap: 55px;
+}
+.card {
+	border-radius: 25px;
+	min-width: 330px;
+	min-height: 450px;
+	align-content: center;
+}
+.card__image {
+	border-radius: 20px 20px 0 0;
+	overflow:hidden;
+	width: 329px;
+	height: 350px;
+}
+.card__content {
+	border: 1px solid #E3E1D5;
+	border-radius: 0 0 20px 20px;
+	text-align: center;
+	min-height: 100px;
+}
+
+
+/* PRICES-----------------------------------------------------------------------------------*/
+
+.container {
+}
+.prices {
+	margin: 40px 0 115px 0px;
+	display: flex;
+	justify-content: space-between;
+}
+.prices__box {
+}
+.prices__header {
+}
+.prices__text {
+	font-family: Inter;
+	font-weight: 700;
+	font-size: 40px;
+	color: #000000;
+	line-height: 50px;
+
+}
+.prices_list {
+	border: 1px solid #E3E1D5;
+	border-radius: 20px;
+	width: 332px;
+	height: 282px;
+	margin-top: 60px;
+
+}
+
+.prices_listbox {
+margin: 33px 40px;
+display: flex;
+flex-wrap: wrap;
+row-gap: 32px;
+
+
+}
+
+.prices__listbtn {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #EDF2EC;
+	border-radius: 20px;
+	align-content: center;
+	padding-right: 40px;
+	padding-left: 20px;
+	width: 250px;
+	height: 50px;
+
+}
+.listbtn__text {
+	font-family: Inter;
+	font-weight: 700;
+	font-size: 20px;
+	color: #000000;
+}
+.listbtn__icon {
+	display: flex;
+}
+.prices__contact {
+	display: flex;
+	flex-direction: column;
+	align-items:flex-end;
+}
+.prices__slogan {
+}
+.prices__button {
+}
+.button__prices{
+margin: 38px 0 39px 0px;
+font-family: Inika;
+font-size: 20px;
+text-align: center;
+color: #E06733;
+border: 2px solid #E06733;
+border-radius: 5px;
+height: 50px;
+width: 161px;
+padding: 6px;
+}
+
+.button:hover {
+background:#E06733;
+color:#FFFFFF;
+}
+.prices__img {
+}
+
+/* CONTACT US-----------------------------------------------------------------------------------*/
+
+.main {
+}
+.container {
+}
+.contact {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-top: 60px;
+}
+.contact__title {
+	flex: 0 1 100%;
+	text-align: center;
+	position: relative;
+	margin-top: 60px;
+}
+
+.h2__bold {
+	font-weight: 700;
+}
+.contact__img {
+}
+
+.contact__city {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #D6E7D2;
+	width: 450px;
+	height: 50px;
+	padding-right: 35px;
+	padding-left: 20px;
+	box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+	margin-top: 37px;
+
+}
+.city_text {
+	margin-right: 20px;
+
+}
+.city__icon {
+	display: flex;
+
+}
+
+
+
+/* FOOTER-----------------------------------------------------------------------------------*/
+
+.container {
+}
+.footer__container {
+	height: 125px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	align-items: center;
+	padding-top: 30px;
+	
+}
+.copyright {
+	display: flex;
+	gap: 20px;
+
+}
+.footer__text {
+	font-family: Inter;
+	font-weight: 400;
+	font-size: 20px;
+	color: #000000;
+}
+.school {
+	justify-self: center;
+}
+.social ul {
+	display: flex;
+	gap: 20px;
+}
+.footer__link {
+	font-family: Inter;
+	font-weight: 400;
+	font-size: 20px;
+	color: #000000;
+}
+.footer__link:hover {
+	color: #E06733;
+}
