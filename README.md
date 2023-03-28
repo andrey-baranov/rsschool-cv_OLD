@@ -1,1 +1,1 @@
-https://Andrey-Baranov.github.io/rsschool-cv/
+https://Andrey-Baranov.github.io/rrsschool-cv/cv
