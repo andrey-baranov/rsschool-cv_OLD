@@ -57,3 +57,20 @@
 
 ---	   
   
+## Skills ##
+  **Languages**  
+  * Russian (Mother tongue)) 
+  * English (Intermediate)   
+
+  **Computer skills** 
+  * HTML  
+  * CSS  
+  * Figma  
+  * Webflow  
+  * Tilda  
+  * Photoshop
+  * Illustrator 
+  * Indesign   
+  * After Effects  
+  * Premiere  
+  * Cinema 4D
